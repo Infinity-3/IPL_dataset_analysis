@@ -66,6 +66,15 @@ Libraries used for visualization:
 pip install pandas matplotlib seaborn
 ```
 
+OR
+
+```bash
+# Run the requirements file
+pip install -r requirements.txt
+```
+
+Then
+
 ```bash
 # Run the analysis file
 python ipl_dataset_analysis.py
